@@ -15,7 +15,7 @@ To get started with the Python Image Background Remover, follow these steps:
 ```bash
 git clone https://github.com/yourusername/python-image-background-remover.git
 cd python-image-background-remover
-```
+``` 
 #### Create a virtual environment (recommended):
 ```bash
 python -m venv venv
