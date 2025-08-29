@@ -9,7 +9,7 @@ Easy to Use: Command-line interface for straightforward operation.
 Lightweight: Built with commonly used Python libraries.<br>  
  
 ### 🚀 Installation
-To get started with the Python Image Background Remover, follow these steps:
+To get started with the Python Image Background Remover, follow these steps: 
 
 #### Clone the repository: 
 ```bash
