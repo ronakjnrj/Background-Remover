@@ -3,7 +3,7 @@ A simple yet effective Python script to remove backgrounds from images using pop
 
 ### ✨ Features<br>
 Automated Background Removal: Intelligently identifies and removes the background from an image.
-Supports Common Image Formats: Works with JPG, PNG, WEBP, and more.
+Supports Common Image Formats: Works with JPG, PNG, WEBP, and more. 
 Customizable Output: Save the processed image with a transparent background (PNG).
 Easy to Use: Command-line interface for straightforward operation.  
 Lightweight: Built with commonly used Python libraries.<br>  
