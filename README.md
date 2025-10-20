@@ -6,7 +6,7 @@ Automated Background Removal: Intelligently identifies and removes the backgroun
 Supports Common Image Formats: Works with JPG, PNG, WEBP, and more. 
 Customizable Output: Save the processed image with a transparent background (PNG).
 Easy to Use: Command-line interface for straightforward operation.  
-Lightweight: Built with commonly used Python libraries.<br>      
+Lightweight: Built with commonly used Python libraries.<br>       
   
 ### 🚀 Installation
 To get started with the Python Image Background Remover, follow these steps: 
