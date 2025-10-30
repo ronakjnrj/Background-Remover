@@ -44,7 +44,7 @@ python main.py --input <input_image_path> --output <output_image_path>
 
 To remove the background from my_photo.jpg and save it as my_photo_no_bg.png:
 ```bash
-python main.py --input images/my_photo.jpg --output output/my_photo_no_bg.png
+python main.py --input images/my_photo.jpg --output output/my_photo_no_bg.png 
 ```
 #### Command-line Arguments:
 
