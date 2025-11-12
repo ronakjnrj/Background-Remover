@@ -11,7 +11,7 @@ Lightweight: Built with commonly used Python libraries.<br>
 ### 🚀 Installation
 To get started with the Python Image Background Remover, follow these steps: 
 
-#### Clone the repository:  
+#### Clone the repository:   
 ```bash
 git clone https://github.com/yourusername/python-image-background-remover.git
 cd python-image-background-remover
